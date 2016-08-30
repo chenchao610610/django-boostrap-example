@@ -1,0 +1,17 @@
+1、test ok
+备注：
+1、下载文件
+wget "https://www.djangoproject.com/m/releases/1.6/Django-1.6.11.tar.gz"
+2、tar -zxvf Django-1.6.11.tar.gz 
+3、cd Django-1.6.11/
+4、 python setup.py install
+
+完成后创建工程： 
+$  django-admin.py startproject testdj
+$  cd testdj # 切换到我们创建的项目
+$  python manage.py runserver 或者指定 ip:port python manage.py runserver 192.168.56.101:8000
+
+==============开发文档
+http://www.shouce.ren/api/django/#
+==============
+http://192.168.56.101:8000/static/css/bootstrap.min.css
