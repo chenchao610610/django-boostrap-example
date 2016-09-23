@@ -1,0 +1,3 @@
+global aaa
+
+aaa = 'good'
