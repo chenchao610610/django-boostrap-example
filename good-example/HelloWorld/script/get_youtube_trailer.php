@@ -4,8 +4,8 @@
  * 一天跑一次，更新最近的2000个
  */
 $host = "127.0.0.1:53306";
-$user = "main_wapka_mobi";
-$passwd = 'JKjk^%$lddada';
+$user = "xxxx";
+$passwd = 'yyyy';
 $dbname = "imdb";
 
 //连接数据库

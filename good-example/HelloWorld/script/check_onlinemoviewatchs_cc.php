@@ -31,8 +31,8 @@ foreach($urls as $url)
 }
 
 $host = "127.0.0.1:53306";
-$user = "main_wapka_mobi";
-$pass = 'JKjk^%$lddada';
+$user = "xxxx";
+$pass = 'bbb';
 $dbname = "imdb";
 
 $conn = mysql_connect($host, $user, $pass) or die("connect to db fail");

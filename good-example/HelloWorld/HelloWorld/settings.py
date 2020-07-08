@@ -103,8 +103,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'imdb_test',
-        'USER': 'main_wapka_mobi',
-        'PASSWORD': 'JKjk^%$lddada',
+        'USER': 'xxxx',
+        'PASSWORD': 'bbbb',
         'HOST':'127.0.0.1',
         'PORT':'53306',
     }

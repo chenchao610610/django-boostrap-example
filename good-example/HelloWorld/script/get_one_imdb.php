@@ -1,8 +1,8 @@
 <?php
 $host = "127.0.0.1:53306";
-$user = "main_wapka_mobi";
-$pass = 'JKjk^%$lddada';
-$dbname = "imdb";
+$user = "xxxx";
+$pass = 'bbb';
+$dbname = "ccc";
 
 $conn = mysql_connect($host, $user, $pass) or die("connect to db fail");
 mysql_select_db($dbname, $conn) or die("select db fail");
